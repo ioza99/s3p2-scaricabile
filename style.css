@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.user{
+    display: inline;
+}
+
+.title{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.most-bought{
+    background-color: lightblue;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.popular{
+     width: 150px;
+     margin-top: 5px;
+}
+.popular:hover{
+    cursor: pointer;
+}
+
+.popular2{
+    width: 100px;
+    margin-top: 5px;
+}
+.popular2:hover{
+    cursor: pointer;
+}
+
+figure{
+    font-weight: bold;
+}
+
+.computers{
+    display: flex;
+    padding: 20px;
+    margin-top: 25px;
+    background-color: lightblue;
+}
+
+.title2{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.pc{
+    width: 150px;
+    margin-left: 20px;
+}
+
+.pc:hover{
+    cursor: pointer;
+}
+
+figcaption{
+    margin-left: 30px;
+}
+
+.presentation{
+    padding: 20px;
+}
+
+input{
+    border-radius: 20px;
+    height: 30px;
+}
+
+button{
+    height: 30px;
+    width: 50px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+form{
+    padding: 20px;
+}
+
